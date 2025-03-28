@@ -4,7 +4,7 @@
 * Nombre completo: Luciano Nahuel Lobo.  
 * Legajo:  212.999-1
 
-## 🧑 Sobre mi 
+## 🧑 Sobre mí 
 * Tengo 20 años (cumplo los 21 en abril).
 * Además de estudiar en la UTN también trabajo como desarrollador de soluciones tecnológicas en una empresa dedicada a los eventos empresariales, institucionales, culturales y promocionales.
 
