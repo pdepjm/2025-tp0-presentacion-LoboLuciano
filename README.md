@@ -2,7 +2,7 @@
 
 
 ### - Sobre mi 🧑
-Soy Luciano, tengo 20 años y además de estudiar en la UTN también trabajo como desarrollador de soluciones tecnológicas en una empresa dedicada a los eventos empresariales, institucionales, culturales y promocionales.
+Soy Luciano Nahuel Lobo, mi legajo es 212.999-1, tengo 20 años y además de estudiar en la UTN también trabajo como desarrollador de soluciones tecnológicas en una empresa dedicada a los eventos empresariales, institucionales, culturales y promocionales.
 
 <img src="https://github.com/user-attachments/assets/48cbcc83-7ad8-4be6-9195-3f77a3239c0d" alt="Tyler Joseph" height="400">
 
