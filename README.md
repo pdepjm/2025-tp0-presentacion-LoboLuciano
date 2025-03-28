@@ -1,6 +1,6 @@
 # ¡Hola a todos! 👋
 
-## ℹ️ Datos Personales 
+## ℹ️ Datos personales 
 * Nombre completo: Luciano Nahuel Lobo.  
 * Legajo:  212.999-1
 
